@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Fala aê, galera
+=======
+Fala, galera
+>>>>>>> branch-b
